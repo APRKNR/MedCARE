@@ -1,0 +1,9 @@
+Array
+(
+    [id] => 3
+    [name] => Arun
+    [email] => apr@gmail.com
+    [created_at] => 2018-08-18 17:25:06
+    [updated_at] => 2018-08-18 17:25:06
+    [deleted_at] => 
+)
